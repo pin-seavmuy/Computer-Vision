@@ -1,0 +1,9 @@
+Pillow
+absl-py
+attrs
+cvzone
+cycler
+pip
+numpy
+opencv-python
+matplotlib
